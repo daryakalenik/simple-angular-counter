@@ -1,0 +1,15 @@
+.counter__header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  h1 {
+    color: pink;
+    text-align: center;
+  }
+  p {
+    font-size: 25px;
+    font-weight: 400;
+    text-align: center;
+  }
+}
